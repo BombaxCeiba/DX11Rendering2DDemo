@@ -1,0 +1,5 @@
+{
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}\\build\\compile_commands.json",
+    //"cmake.generator": "Visual Studio 17 2022"
+    "cmake.generator": "Ninja"
+}
